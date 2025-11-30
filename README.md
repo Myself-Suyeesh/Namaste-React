@@ -1,1 +1,24 @@
-# Namaste-React
+# Namaste React
+
+A learning repository documenting my journey through the **Namaste React** course by [Akshay Saini](https://www.youtube.com/@akshaymarch7).
+
+## About
+
+This repository contains code examples, exercises, and projects created while learning React fundamentals and advanced concepts from the Namaste React course.
+
+## Course Content
+
+- React fundamentals and core concepts
+- JSX and React components
+- State management
+- Hooks and lifecycle methods
+- Performance optimization
+- And more...
+
+## Structure
+
+- `html-code/` - Initial HTML and vanilla JavaScript examples before diving into React
+
+---
+
+_Learning React, one component at a time! 🚀_
