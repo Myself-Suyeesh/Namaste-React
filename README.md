@@ -18,6 +18,7 @@ This repository contains code examples, exercises, and projects created while le
 ## Structure
 
 - `html-code/` - Initial HTML and vanilla JavaScript examples before diving into React
+- `react-hello/` - First React application using React.createElement
 
 ---
 
