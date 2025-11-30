@@ -1,0 +1,23 @@
+{
+  "name": "foundation-app",
+  "version": "1.0.0",
+  "description": "This is Namaste React practise by Suyeesh!",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build:prod": "parcel build index.html"
+  },
+  "keywords": [
+    "react",
+    "suyeesh"
+  ],
+  "author": "Suyeesh reddy",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
