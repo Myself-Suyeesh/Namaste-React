@@ -21,7 +21,12 @@ This repository contains code examples, exercises, and projects created while le
   - `.parcel-cache/` - Learning exercises and code examples
 - `Gofood/` - React examples and exercises
   - `.parcel-cache/` - Learning exercises and code examples
+- `Gofood-hooked/` - Learning exercises and code examples
+  - `.parcel-cache/` - Learning exercises and code examples
   - `dist/` - React examples and exercises
+  - `src/` - React examples and exercises
+    - `components/` - Learning exercises and code examples
+    - `utils/` - Learning exercises and code examples
 - `html-code/` - Initial HTML and vanilla JavaScript examples before diving into React
 - `ignite-app/` - React examples and exercises
   - `.parcel-cache/` - Learning exercises and code examples
