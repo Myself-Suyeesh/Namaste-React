@@ -23,6 +23,11 @@ This repository contains code examples, exercises, and projects created while le
   - `.parcel-cache/` - Learning exercises and code examples
 - `Gofood-hooked/` - Learning exercises and code examples
   - `.parcel-cache/` - Learning exercises and code examples
+  - `src/` - React examples and exercises
+    - `components/` - Learning exercises and code examples
+    - `utils/` - Learning exercises and code examples
+- `Gofood-world/` - Learning exercises and code examples
+  - `.parcel-cache/` - Learning exercises and code examples
   - `dist/` - React examples and exercises
   - `src/` - React examples and exercises
     - `components/` - Learning exercises and code examples
